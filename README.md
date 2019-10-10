@@ -197,7 +197,7 @@ unclassified:
 credentials:
   system:
     domainCredentials:
-      credentials:
+    - credentials:
         - certificate:
             scope: SYSTEM
             id: ssh_private_key
